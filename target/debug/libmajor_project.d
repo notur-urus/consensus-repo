@@ -1,0 +1,1 @@
+E:\rust_project\major_project\target\debug\libmajor_project.rlib: E:\rust_project\major_project\src\consensus.rs E:\rust_project\major_project\src\decay.rs E:\rust_project\major_project\src\lib.rs E:\rust_project\major_project\src\threshold.rs E:\rust_project\major_project\src\vote.rs
